@@ -1,4 +1,6 @@
 # Added multilingual menu
+![prepomax_multilingual_ss001](https://github.com/user-attachments/assets/c892aae8-7bc5-4a93-84b1-75f013b370bb)
+
 
 ---original readme below ---  
 
