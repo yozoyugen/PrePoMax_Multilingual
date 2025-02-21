@@ -7,8 +7,8 @@ Similarly, you can implement any language you want.
   
 Not supported for all GUI components.  
 The following items are already available.  
-・Almost all of top menu bar and button
-・Almost all of tree GUI
+・Almost all of top menu bar and button  
+・Almost all of tree GUI  
 ・Some dialog boxes  
 For other components, you can do it in a similar way referring to the above components.  
 
