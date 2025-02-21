@@ -1,6 +1,16 @@
 # Added multilingual menu
 ![prepomax_multilingual_ss001](https://github.com/user-attachments/assets/61263a6f-f660-4d67-951b-c873136da3c6)
-![prepomax_multilingual_ss002](https://github.com/user-attachments/assets/d56fd442-0b6d-47a4-9c01-32d98f030e67)
+![prepomax_multilingual_ss002](https://github.com/user-attachments/assets/d56fd442-0b6d-47a4-9c01-32d98f030e67)  
+This repogitory is the test version for PrePoMax with mulitingual support.  
+As an example, included Japanese.  
+Similarly, you can implement any language you want.  
+  
+Not supported for all GUI components.  
+The following items are already available.  
+・Almost all of top menu bar and button
+・Almost all of tree GUI
+・Some dialog boxes  
+For other components, you can do it in a similar way referring to the above components.  
 
   
 ---original readme below ---  
