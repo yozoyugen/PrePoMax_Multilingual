@@ -12,11 +12,9 @@ The following items are already available.
 ・Some dialog boxes  
 For other components, you can do it in a similar way referring to the above components.  
 
-Demo video  
+[Demo video  ]
 <a href="https://youtu.be/608M0OK07ck"><img src="https://github.com/user-attachments/assets/03257b0e-32d7-49d7-b9dc-ffc38ce801f1" width="400px"></a>  
-  
-  
-  
+      
 ---original readme below ---  
 
 # Prerequisites
