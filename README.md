@@ -1,5 +1,5 @@
 # Added multilingual menu
-![prepomax_multilingual_ss001](https://github.com/user-attachments/assets/c892aae8-7bc5-4a93-84b1-75f013b370bb)
+![prepomax_multilingual_ss001](https://github.com/user-attachments/assets/61263a6f-f660-4d67-951b-c873136da3c6)
 ![prepomax_multilingual_ss002](https://github.com/user-attachments/assets/d56fd442-0b6d-47a4-9c01-32d98f030e67)
 
   
